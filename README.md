@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>My name is Kyle, thank you for stopping by. </h1>
     <h2><u>About me.</u><h2>
-    <p>I am an aspiring developer and life long student of various technologies, and I'm more than happy to say I show no sign of slowing down. Just the opposite, in fact.</p>
+    <p>I am a student of Computing and IT in most forms.</p>
 <br>
     <h3>Vocational Certifications.</h3>
     <p>I'm currently working on audio recordings to help my own understanding of CompTIA's Network+ certification, and hope that eventually I can release these as a podcast to help others.</p>
@@ -22,10 +22,10 @@
 <div id="skills" align="center">
   <h2>Skills</h2>
   <ul>
-    <li>Virtualisation</li>
-    <li>Automation through Bash, PowerShell, Python</li>
-    <li>Web Development</li>
-    <li>OOP Programming with Java, C#</li>
+    <li>Virtualisation.</li>
+    <li>Automation through Bash, PowerShell, Python.</li>
+    <li>Web Development.</li>
+    <li>OOP Programming with Java, C#.</li>
   </ul>
 
 </div>
